@@ -5,6 +5,9 @@
 [submodule "metavcov"]
 	path = metavcov
 	url = https://github.com/luminwin/metavcov
+[submodule "varGuid"]
+	path = varGuid
+	url = https://github.com/luminwin/varguid
 [submodule "varGuidTS"]
 	path = varGuidTS
 	url = https://github.com/cran/varGuidTS
